@@ -1,0 +1,40 @@
+{
+    "data" : [
+        {
+            "id": 1,
+            "blogCategory": "Featured",
+            "blogTitle": "Fitness Mantra To Live Fit Life",
+            "author": "Faiz Khan",
+            "blogImage": "drop-3698073_1920.jpg",
+            "blogText": "My mission in life is not only to survive but to thrive",
+            "postedOn": "12-12-2021"
+        },
+        {
+            "id": 2,
+            "blogCategory": "Featured",
+            "blogTitle": "Fitness Mantra To Live Fit Life",
+            "author": "Faiz Khan",
+            "blogImage": "drop-3698073_1920.jpg",
+            "blogText": "My mission in life is not only to survive but to thrive",
+            "postedOn":"12-12-2021"
+        },
+        {
+            "id": 3,
+            "blogCategory": "Featured",
+            "blogTitle": "Fitness Mantra To Live Fit Life",
+            "author": "Faiz Khan",
+            "blogImage": "drop-3698073_1920.jpg",
+            "blogText": "My mission in life is not only to survive but to thrive",
+            "postedOn":"12-12-2021"
+        },
+        {
+            "id": 4,
+            "blogCategory": "Featured",
+            "blogTitle": "Fitness Mantra To Live Fit Life",
+            "author": "Faiz Khan",
+            "blogImage": "drop-3698073_1920.jpg",
+            "blogText": "My mission in life is not only to survive but to thrive",
+            "postedOn":"12-12-2021"
+        }
+    ]
+}

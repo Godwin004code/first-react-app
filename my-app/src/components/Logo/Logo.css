@@ -1,0 +1,11 @@
+.logo h2 a {
+    text-decoration: none;
+    
+    color: black;
+}
+.logo {
+    font-family: cursive;
+    text-align: center;
+    font-size: 40px;
+    
+}

@@ -1,0 +1,15 @@
+.gallery-post {
+    display: flex;
+    justify-content: space-between;
+}
+.side-image-container div {
+    width: 100%;
+}
+.side-image-container div img {
+    object-fit: cover;
+}
+.home-container {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0;
+}
